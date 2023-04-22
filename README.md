@@ -6,7 +6,7 @@ This is a Streamlit application that classifies images into different animal spe
 
 - Image classification into animal species
 - User-friendly interface using Streamlit
-- Built with deep learning and Python
+- Built with transfer learning and Python
 
 ## Requirements
 
